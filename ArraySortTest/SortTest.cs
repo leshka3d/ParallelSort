@@ -140,12 +140,7 @@ namespace ArraySortTest
             //Array.Sort<int>(Arr,new cmp());
         }
 
-        [Test]
-        public void TestMSD()
-        {
-            ParallelArraySort.MSDBit.Sort(Arr, 0, Arr.Length);
-        }
-
+     
 
 
 
