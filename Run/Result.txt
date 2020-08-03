@@ -76,15 +76,7 @@ Size : 100000000
 Parallel[4] / Parallel[8] / Standart = 3277ms / 2676ms / 7446ms
 
 
-
-
-
-
-
--2. ArrayPool<T>   slow :(
-+3. Template
-4. Core I7 & Pentium Gold
-5. Upload 
 ====
 1.merger problem code uptimize
-2. Run Tests on diferent cpu
+2. More tests 
+Run Tests on diferent cpu
